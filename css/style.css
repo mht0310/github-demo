@@ -1,0 +1,78 @@
+	
+.header .menu{
+	border: none;
+	background: none;
+	float: right;
+	/* height: 40px!important; */
+}
+
+.header .logo{
+	margin-top: 10px;
+	float: left;
+
+}
+.header .logo img{
+	height: 40px
+}
+.header .dress{
+	line-height: 70px;
+
+}
+.u-header{
+	margin-top: 20px
+}
+.u-header-left .abc{
+	color: #b1a9a9;
+	font-weight: bold;
+}
+.u-header-right h3{
+	text-transform: uppercase;
+	color: #b1a9a9;
+}
+.list-product{
+	margin-top: 20px;
+	
+}
+.list-product .container{
+	background-color: #39436f;
+	padding-top: 10px;
+	width: 90%;
+}
+
+.list-product .item .dress{
+	color: #fff;
+	text-align: center
+}
+.a1{
+	color: #b1a9a9;
+}
+.cmt{
+	background-color: #dec5c5
+}
+.footer{
+	margin-top: 20px
+}
+.footer .row{
+	padding:  0 30px!important;
+}
+.footer .a1 .h{
+	padding-left: 30px
+}
+.gachchan{
+	width: 100%;	
+}
+.u-footer .menu{
+border: none;
+background:none;
+
+float: right;
+
+
+
+
+}
+.u-footer .menu ul li a{
+	color: red!important;
+	text-transform: uppercase;
+	padding-bottom: 0px;
+
